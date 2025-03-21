@@ -138,4 +138,4 @@ License
 
 This project is open-source and available for use under the MIT License.
 
-Developed with ❤️ using Streamlit & Python
+
